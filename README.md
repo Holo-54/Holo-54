@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Holo-54
 - 👀 I’m interested in cybersecurity, discord bots, and more!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Powershell scripting
 - 💞️ I’m looking to collaborate on some discord bots and Intune app packages
 
 <!---
